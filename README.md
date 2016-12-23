@@ -7,7 +7,7 @@ All files must be executed in pyspark with the
 
 The first python file to be executed is the CreateDataframe.py. It creates a dataframe of the dataset.
 
-The files below have to do with the first part of the analysis and must be executed after the execution of the CreateDataframe.py because they use the dataset dataframe:
+The files below have to do with the first part of the analysis and must be executed after the execution of the CreateDataframe.py because they use the dataset dataframe. We have run numerous queries below and they are named in a way that suggests what the query is: 
 
  - Age.py
  - Age23Top5Violations.py
