@@ -1,6 +1,8 @@
 # Traffic_Violations_Analysis_And_Prediction
 Big Data Analytics Final Project For Georgios Charitos - gc2662 , Aditya Bagri - aab2234 and Srinidhi Srinivasan - ss4974
 
+Link to dataset : https://data.ny.gov/Transportation/Traffic-Tickets-Issued-Four-Year-Window/q4hy-kbtf/data
+
 All files must be executed in pyspark with the
 
 >>>execfile("path_to_file")
