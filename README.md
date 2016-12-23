@@ -8,24 +8,25 @@ All files must be executed in pyspark with the
 The first python file to be executed is the CreateDataframe.py. It creates a dataframe of the dataset.
 The files below have to do with the first part of the analysis and must be executed after the execution of the CreateDataframe.py because they use the dataset dataframe:
 
--Age.py
--Age23Top5Violations.py
--Age21_23.py
--GenderPieChart.py
--PhoneViolations.py
--State.py
--Years.py
--Month.py
--Top10Violations.py
+Age.py
+Age23Top5Violations.py
+Age21_23.py
+GenderPieChart.py
+PhoneViolations.py
+State.py
+Years.py
+Month.py
+Top10Violations.py
 
 The files below have to do with the first part of the prediction:
 
--PredictGender.py
--PredictAge.py
--PredictAge21_25.py
+PredictGender.py
+PredictAge.py
+PredictAge21_25.py
 
 *Remember to change the path of the dataset
 
 seabornTwo.py : 
 
 This file contains the python code for the visualizations using the Seaborn Library. Comments include instructions for uploading the data as a pandas data frame and using the various functions with a combination of arguments to execute the numerous plots availavble in the library.
+
